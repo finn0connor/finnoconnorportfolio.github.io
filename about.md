@@ -20,9 +20,9 @@ layout: default
 
   <div class="grid">
     <div class="card">
-      <h2>Hi — I’m Finn.</h2>
+      <h2>Hi - I’m Finn.</h2>
       <p class="sub">
-        Replace this with 4–6 lines: what you study/do, what you like building, and the kinds of roles you want.
+      I am currently in my fourth year, studying toward a Master of Mechanical Engineering at Trinity College Dublin. I have a strong passion for problem solving,        whether through mechanical design and simulation, numerical analysis, or data-driven engineering challenges.
       </p>
 
       <hr>
