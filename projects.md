@@ -1,7 +1,8 @@
 ---
+permalink: /projects/
 ---
 
-<link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+<link rel="stylesheet" href="/finnoconnorportfolio.github.io/style.css">
 
 <div class="wrap">
   <div class="nav">
@@ -10,9 +11,9 @@
       <span>Summary + embedded project files</span>
     </div>
     <div class="links">
-      <a class="pill" href="{{ site.baseurl }}/">Home</a>
-      <a class="pill" href="{{ site.baseurl }}/about">About</a>
-      <a class="pill" href="{{ site.baseurl }}/assets/pdfs/CV.pdf">CV</a>
+      <a class="pill" href="/finnoconnorportfolio.github.io/">Home</a>
+      <a class="pill" href="/finnoconnorportfolio.github.io/about/">About</a>
+      <a class="pill" href="/finnoconnorportfolio.github.io/assets/pdfs/CV.pdf">CV</a>
       <a class="pill" href="https://github.com/finn0connor">GitHub</a>
     </div>
   </div>
@@ -54,17 +55,24 @@
           <p class="meta">
             If the embedded viewer doesn’t load in your browser, use:
             <a class="pill"
-               href="{{ site.baseurl }}/assets/pdfs/4B7_Assignment_2_Group_4%20Report.pdf"
+               href="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Assignment_2_Group_4_Report.pdf"
                target="_blank" rel="noopener">Open PDF</a>
           </p>
 
           <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
-            <iframe
-              src="{{ site.baseurl }}/assets/pdfs/4B7_Assignment_2_Group_4%20Report.pdf"
+            <object
+              data="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Assignment_2_Group_4_Report.pdf"
+              type="application/pdf"
               width="100%"
               height="650"
-              style="border:0; background:rgba(255,255,255,.02);">
-            </iframe>
+              style="display:block; border:0; background:rgba(255,255,255,.02);">
+              <iframe
+                src="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Assignment_2_Group_4%20Report.pdf"
+                width="100%"
+                height="650"
+                style="border:0; background:rgba(255,255,255,.02);">
+              </iframe>
+            </object>
           </div>
         </details>
 
@@ -104,16 +112,23 @@
 
           <p class="meta">
             Fallback link:
-            <a class="pill" href="{{ site.baseurl }}/assets/pdfs/PROJECT2.pdf" target="_blank" rel="noopener">Open PDF</a>
+            <a class="pill" href="/finnoconnorportfolio.github.io/assets/pdfs/PROJECT2.pdf" target="_blank" rel="noopener">Open PDF</a>
           </p>
 
           <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
-            <iframe
-              src="{{ site.baseurl }}/assets/pdfs/PROJECT2.pdf"
+            <object
+              data="/finnoconnorportfolio.github.io/assets/pdfs/PROJECT2.pdf"
+              type="application/pdf"
               width="100%"
               height="650"
-              style="border:0; background:rgba(255,255,255,.02);">
-            </iframe>
+              style="display:block; border:0; background:rgba(255,255,255,.02);">
+              <iframe
+                src="/finnoconnorportfolio.github.io/assets/pdfs/PROJECT2.pdf"
+                width="100%"
+                height="650"
+                style="border:0; background:rgba(255,255,255,.02);">
+              </iframe>
+            </object>
           </div>
         </details>
 
@@ -123,6 +138,6 @@
   </div>
 
   <div class="footer">
-    <a class="pill" href="{{ site.baseurl }}/">← Back home</a>
+    <a class="pill" href="/finnoconnorportfolio.github.io/">← Back home</a>
   </div>
 </div>
