@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
@@ -20,7 +19,6 @@ layout: default
 
   <div class="grid">
 
-    <!-- ===================== PROJECT 1 ===================== -->
     <div class="card">
       <h2>Project Title 1</h2>
       <div class="meta">One-line hook: what it is + outcome (e.g., “Realtime tracking at 30 FPS”).</div>
@@ -31,7 +29,7 @@ layout: default
         <span class="tag">Algorithms</span>
       </div>
 
-      <div class="details">
+      <div class="details" style="display:flex; flex-direction:column; gap:10px;">
 
         <details>
           <summary>Project Summary</summary>
@@ -55,12 +53,14 @@ layout: default
 
           <p class="meta">
             If the embedded viewer doesn’t load in your browser, use:
-            <a class="pill" href="{{ site.baseurl }}/assets/pdfs/4B7_Assignment_2_Group_4 Report.pdf" target="_blank" rel="noopener">Open PDF</a>
+            <a class="pill"
+               href="{{ site.baseurl }}/assets/pdfs/4B7_Assignment_2_Group_4%20Report.pdf"
+               target="_blank" rel="noopener">Open PDF</a>
           </p>
 
           <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
             <iframe
-              src="{{ site.baseurl }}/assets/pdfs/4B7_Assignment_2_Group_4 Report.pdf"
+              src="{{ site.baseurl }}/assets/pdfs/4B7_Assignment_2_Group_4%20Report.pdf"
               width="100%"
               height="650"
               style="border:0; background:rgba(255,255,255,.02);">
@@ -71,7 +71,6 @@ layout: default
       </div>
     </div>
 
-    <!-- ===================== PROJECT 2 ===================== -->
     <div class="card">
       <h2>Project Title 2</h2>
       <div class="meta">One-line hook.</div>
@@ -82,7 +81,7 @@ layout: default
         <span class="tag">Robotics</span>
       </div>
 
-      <div class="details">
+      <div class="details" style="display:flex; flex-direction:column; gap:10px;">
 
         <details>
           <summary>Project Summary</summary>
