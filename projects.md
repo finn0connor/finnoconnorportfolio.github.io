@@ -55,7 +55,7 @@ layout: default
 
           <p class="meta">
             If the embedded viewer doesn’t load in your browser, use:
-            <a class="pill" href="{{ site.baseurl }}/assets/pdfs/PROJECT1.pdf" target="_blank" rel="noopener">Open PDF</a>
+            <a class="pill" href="{{ site.baseurl }}/assets/pdfs/4B7 Assignment 2 Group 4 Report.pdf" target="_blank" rel="noopener">Open PDF</a>
           </p>
 
           <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
