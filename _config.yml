@@ -1,0 +1,7 @@
+title: Finn O’Connor
+description: Portfolio
+theme: null
+markdown: kramdown
+
+# IMPORTANT: for project sites (your URL includes /finnoconnorportfolio.github.io)
+baseurl: "/finnoconnorportfolio.github.io"
