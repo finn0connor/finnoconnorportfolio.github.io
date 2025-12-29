@@ -20,32 +20,52 @@ permalink: /projects/
 
   <div class="grid">
 
+    <!-- PROJECT: 4B7 Smartphone Chassis Design -->
     <div class="card">
-      <h2>Project Title 1</h2>
-      <div class="meta">One-line hook: what it is + outcome (e.g., “Realtime tracking at 30 FPS”).</div>
+      <h2>Smartphone Chassis Design — “Formula1 Performance: In Your Pocket”</h2>
+      <div class="meta">
+        Lightweight, stiff phone chassis optimised for strength + thermal performance using simulation-led design.
+      </div>
 
       <div class="tags">
-        <span class="tag">Python</span>
-        <span class="tag">OpenCV</span>
-        <span class="tag">Algorithms</span>
+        <span class="tag">SolidWorks CAD</span>
+        <span class="tag">FEA</span>
+        <span class="tag">Thermal Simulation</span>
+        <span class="tag">Mesh Independence</span>
+        <span class="tag">Von Mises Stress</span>
+        <span class="tag">h-adaptive Meshing</span>
+        <span class="tag">6061-T6 Aluminium</span>
+        <span class="tag">Graphene Heat Spreader</span>
+        <span class="tag">Anodising (Emissivity)</span>
+        <span class="tag">MATLAB</span>
       </div>
 
       <div class="details" style="display:flex; flex-direction:column; gap:10px;">
 
         <details>
           <summary>Project Summary</summary>
-          <p><strong>Problem:</strong> What problem you solved (1–2 lines).</p>
-          <p><strong>Approach:</strong> How you solved it (1–2 lines).</p>
 
+          <p><strong>Goal:</strong> Design a phone chassis that is lightweight and visually premium, while surviving bending/torsion loads and staying cool under CPU + battery heat loads.</p>
+
+          <p><strong>What we did:</strong></p>
           <ul>
-            <li><strong>Key work:</strong> Bullet with your contribution</li>
-            <li><strong>Key work:</strong> Bullet with your contribution</li>
-            <li><strong>Result:</strong> Metric / performance / outcome</li>
+            <li>Researched candidate materials (incl. 6061-T6 aluminium and AZ91D magnesium) and compared stiffness, strength, density, and thermal conductivity.</li>
+            <li>Built a simulation workflow with mesh-independence studies to ensure results were stable (including targeted mesh controls and h-adaptive refinement).</li>
+            <li>Ran structural load cases (simple bending + torsion/bending) to validate stiffness/deflection and stress behaviour.</li>
+            <li>Ran thermal analyses with CPU + battery heat flux and convection; improved cooling using a graphene layer, high-emissivity anodised surface (radiation), and vent perforations.</li>
           </ul>
 
-          <p><strong>Links:</strong>
-            <a class="pill" href="REPLACE_WITH_REPO_LINK">Code</a>
-            <a class="pill" href="REPLACE_WITH_DEMO_LINK">Demo</a>
+          <p><strong>Final outcome (highlights):</strong></p>
+          <ul>
+            <li><strong>Mass:</strong> 143.5 g</li>
+            <li><strong>Stiffness (bending):</strong> ~1,247 N/mm (specific stiffness ~8.7 (N/mm)/g)</li>
+            <li><strong>Strength ratio:</strong> ~4.7% (well below yield → large safety margin)</li>
+            <li><strong>Max temperature:</strong> ~35.2°C after thermal improvements</li>
+            <li><strong>Thermal resistance:</strong> ~4.3 K/W (improved vs baseline)</li>
+          </ul>
+
+          <p class="meta">
+            Source: 4B7 Assignment 2 Group 4 Report (design overview + results + summary tables). :contentReference[oaicite:1]{index=1}
           </p>
         </details>
 
@@ -64,68 +84,12 @@ permalink: /projects/
               data="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Assignment_2_Group_4_Report.pdf"
               type="application/pdf"
               width="100%"
-              height="650"
+              height="700"
               style="display:block; border:0; background:rgba(255,255,255,.02);">
               <iframe
-                src="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Assignment_2_Group_4%20Report.pdf"
+                src="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Assignment_2_Group_4_Report.pdf"
                 width="100%"
-                height="650"
-                style="border:0; background:rgba(255,255,255,.02);">
-              </iframe>
-            </object>
-          </div>
-        </details>
-
-      </div>
-    </div>
-
-    <div class="card">
-      <h2>Project Title 2</h2>
-      <div class="meta">One-line hook.</div>
-
-      <div class="tags">
-        <span class="tag">ROS2</span>
-        <span class="tag">SLAM</span>
-        <span class="tag">Robotics</span>
-      </div>
-
-      <div class="details" style="display:flex; flex-direction:column; gap:10px;">
-
-        <details>
-          <summary>Project Summary</summary>
-          <p><strong>Problem:</strong> …</p>
-          <p><strong>Approach:</strong> …</p>
-
-          <ul>
-            <li>…</li>
-            <li>…</li>
-            <li><strong>Result:</strong> …</li>
-          </ul>
-
-          <p><strong>Links:</strong>
-            <a class="pill" href="REPLACE_WITH_REPO_LINK">Code</a>
-          </p>
-        </details>
-
-        <details>
-          <summary>Project File</summary>
-
-          <p class="meta">
-            Fallback link:
-            <a class="pill" href="/finnoconnorportfolio.github.io/assets/pdfs/PROJECT2.pdf" target="_blank" rel="noopener">Open PDF</a>
-          </p>
-
-          <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
-            <object
-              data="/finnoconnorportfolio.github.io/assets/pdfs/PROJECT2.pdf"
-              type="application/pdf"
-              width="100%"
-              height="650"
-              style="display:block; border:0; background:rgba(255,255,255,.02);">
-              <iframe
-                src="/finnoconnorportfolio.github.io/assets/pdfs/PROJECT2.pdf"
-                width="100%"
-                height="650"
+                height="700"
                 style="border:0; background:rgba(255,255,255,.02);">
               </iframe>
             </object>
