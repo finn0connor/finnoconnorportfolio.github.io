@@ -124,7 +124,7 @@ permalink: /projects/
 
     <!-- PROJECT: CFD Aerofoil Analysis -->
     <div class="card">
-      <h2>CFD Analysis of a NACA3412 Aerofoil with and without Flap</h2>
+      <h2>CFD Analysis of a NACA3412 Aerofoil</h2>
 
       <div class="meta">
         <p><strong>Summary:</strong></p>
@@ -148,8 +148,9 @@ permalink: /projects/
         <span class="tag">ANSYS Meshing</span>
         <span class="tag">SST k–ω Model</span>
         <span class="tag">Aerofoil Aerodynamics</span>
-        <span class="tag">Mesh Quality (y+)</span>
-        <span class="tag">Lift & Drag Analysis</span>
+        <span class="tag">Mesh Refinement</span>
+        <span class="tag">Thin Aerofoil Analysis</span>
+        <span class="tag">Kutta-Joukowski Analysis</span>
       </div>
 
       <div class="details" style="display:flex; flex-direction:column; gap:10px;">
