@@ -25,8 +25,8 @@ permalink: /projects/
       <h2>FEA Smartphone Chassis Design</h2>
 
       <div class="meta">
-        <strong>Objective:</strong>
-        Design a lightweight, premium smartphone chassis with high bending and torsional stiffness while maintaining safe operating temperatures under CPU and battery heat loads.
+        <strong>Summary:</strong>
+        The goal of this assignment was to design a lightweight, premium smartphone chassis with high bending and torsional stiffness while maintaining safe operating temperatures under CPU and battery heat loads. SolidWorks was used to generate and refine the geometry, run finite element analysis (FEA) structural and thermal simulations, and render final design images. Microsoft Excel and MATLAB were used to conduct the mesh refinement study. Canva was used to design a report cover page. The final design significantly exceeded the minimum performance requirements for the assignment, and we achieved the best grade in the class (89%).
       </div>
 
       <div class="tags">
@@ -37,6 +37,7 @@ permalink: /projects/
         <span class="tag">Mesh Refinement Studies</span>
         <span class="tag">Design Optimisation</span>
         <span class="tag">MATLAB</span>
+        <span class="tag">SolidWorks</span>
       </div>
 
       <div class="details" style="display:flex; flex-direction:column; gap:10px;">
