@@ -61,9 +61,6 @@ permalink: /projects/
             <li><strong>Thermal resistance:</strong> ~4.3 K/W (improved vs baseline)</li>
           </ul>
 
-          <p class="meta">
-            Source: 4B7 Assignment 2 Group 4 Report (design overview + results + summary tables). :contentReference[oaicite:1]{index=1}
-          </p>
         </details>
 
         <details>
