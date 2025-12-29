@@ -2,7 +2,7 @@
 permalink: /projects/
 ---
 
-<link rel="stylesheet" href="/finnoconnorportfolio.github.io/style.css">
+<link rel="stylesheet" href="/finnoconnorportfolio.github.io/style.css?v=2">
 
 <div class="wrap">
   <div class="nav">
