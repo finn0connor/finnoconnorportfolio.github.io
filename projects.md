@@ -44,8 +44,7 @@ permalink: /projects/
         <span class="tag">Computer Aided Design (CAD)</span>
         <span class="tag">SolidWorks</span>
         <span class="tag">Finite Element Analysis (FEA)</span>
-        <span class="tag">Thermal Analysis</span>
-        <span class="tag">Structural Analysis</span>
+        <span class="tag">Thermal Simulation</span>
         <span class="tag">Mesh Refinement Studies</span>
         <span class="tag">Design Optimisation</span>
         <span class="tag">MATLAB</span>
@@ -60,13 +59,11 @@ permalink: /projects/
               data="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Assignment_2_Group_4_Report.pdf"
               type="application/pdf"
               width="100%"
-              height="700"
-              style="display:block; border:0; background:rgba(255,255,255,.02);">
+              height="700">
               <iframe
                 src="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Assignment_2_Group_4_Report.pdf"
                 width="100%"
-                height="700"
-                style="border:0; background:rgba(255,255,255,.02);">
+                height="700">
               </iframe>
             </object>
           </div>
@@ -90,7 +87,7 @@ permalink: /projects/
         </p>
 
         <p>
-          The final UAV frame design achieved a significant mass reduction while maintaining a large safety margin against yielding and acceptable thermal performance. Under worst-case loading, the frame experienced low displacement and stresses well below material limits, and thermal simulations confirmed suitability for operation in high-temperature wildfire environments.
+          The final UAV frame design achieved a significant mass reduction while maintaining a large safety margin against yielding and acceptable thermal performance.
         </p>
       </div>
 
@@ -98,11 +95,10 @@ permalink: /projects/
         <span class="tag">Computer Aided Design (CAD)</span>
         <span class="tag">SolidWorks</span>
         <span class="tag">Finite Element Analysis (FEA)</span>
+        <span class="tag">Structural Simulation</span>
         <span class="tag">Thermal Analysis</span>
-        <span class="tag">Structural Analysis</span>
-        <span class="tag">Mesh Refinement Studies</span>
-        <span class="tag">Design Optimisation</span>
         <span class="tag">Topology Optimisation</span>
+        <span class="tag">Aluminium 7075-T6</span>
       </div>
 
       <div class="details" style="display:flex; flex-direction:column; gap:10px;">
@@ -114,13 +110,62 @@ permalink: /projects/
               data="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Computer_Aided_Design__B4_Assignment_3.pdf"
               type="application/pdf"
               width="100%"
-              height="700"
-              style="display:block; border:0; background:rgba(255,255,255,.02);">
+              height="700">
               <iframe
                 src="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Computer_Aided_Design__B4_Assignment_3.pdf"
                 width="100%"
-                height="700"
-                style="border:0; background:rgba(255,255,255,.02);">
+                height="700">
+              </iframe>
+            </object>
+          </div>
+        </details>
+      </div>
+    </div>
+
+    <!-- PROJECT: CFD Aerofoil Analysis -->
+    <div class="card">
+      <h2>CFD Analysis of a NACA3412 Aerofoil with and without Flap</h2>
+
+      <div class="meta">
+        <p><strong>Summary:</strong></p>
+
+        <p>
+          This project investigated the aerodynamic performance of a NACA3412 aerofoil, both in its simple configuration and with a trailing-edge flap, using computational fluid dynamics (CFD).
+        </p>
+
+        <p>
+          The geometry and mesh were constructed in ANSYS DesignModeler and Fluent Meshing, with careful near-wall refinement to achieve y<sup>+</sup> ≈ 1. Simulations were performed in ANSYS Fluent using the SST k–ω turbulence model to capture boundary-layer behaviour, separation, and stall effects.
+        </p>
+
+        <p>
+          Flow behaviour, lift, and drag characteristics were analysed across multiple angles of attack, including post-stall conditions. CFD results were compared with theoretical thin aerofoil and Joukowski predictions, as well as experimental data from a similar aerofoil, showing good agreement in overall trends.
+        </p>
+      </div>
+
+      <div class="tags">
+        <span class="tag">Computational Fluid Dynamics (CFD)</span>
+        <span class="tag">ANSYS Fluent</span>
+        <span class="tag">ANSYS Meshing</span>
+        <span class="tag">SST k–ω Model</span>
+        <span class="tag">Aerofoil Aerodynamics</span>
+        <span class="tag">Mesh Quality (y+)</span>
+        <span class="tag">Lift & Drag Analysis</span>
+      </div>
+
+      <div class="details" style="display:flex; flex-direction:column; gap:10px;">
+        <details>
+          <summary>Project File</summary>
+
+          <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
+            <object
+              data="/finnoconnorportfolio.github.io/assets/pdfs/4B13_Assignment2_FinnOConnor.pdf"
+              type="application/pdf"
+              width="100%"
+              height="700">
+              <iframe
+                src="/finnoconnorportfolio.github.io/assets/pdfs/4B13_Assignment2_FinnOConnor.pdf"
+                width="100%"
+                height="700">
               </iframe>
             </object>
           </div>
