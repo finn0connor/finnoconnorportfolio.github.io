@@ -28,15 +28,12 @@ permalink: /projects/
       </div>
 
       <div class="tags">
-        <span class="tag">SolidWorks CAD</span>
-        <span class="tag">FEA</span>
+        <span class="tag">Computer Aided Design</span>
+        <span class="tag">SolidWorks</span>
+        <span class="tag">Finite Element Analysis (FEA)</span>
         <span class="tag">Thermal Simulation</span>
-        <span class="tag">Mesh Independence</span>
-        <span class="tag">Von Mises Stress</span>
-        <span class="tag">h-adaptive Meshing</span>
-        <span class="tag">6061-T6 Aluminium</span>
-        <span class="tag">Graphene Heat Spreader</span>
-        <span class="tag">Anodising (Emissivity)</span>
+        <span class="tag">Mesh Refinement</span>
+        <span class="tag">Optimisation</span>
         <span class="tag">MATLAB</span>
       </div>
 
@@ -45,7 +42,7 @@ permalink: /projects/
         <details>
           <summary>Project Summary</summary>
 
-          <p><strong>Goal:</strong> Design a phone chassis that is lightweight and visually premium, while surviving bending/torsion loads and staying cool under CPU + battery heat loads.</p>
+          <p><strong>Goal:</strong> To design a premium smartphone chassis that was lightweight and aesthetic, with good performace against bending and torsional stresses, as well as good thermal performance to withstand battery and CPU heat transfer.</p>
 
           <p><strong>What we did:</strong></p>
           <ul>
