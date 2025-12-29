@@ -49,7 +49,6 @@ permalink: /projects/
         <span class="tag">Mesh Refinement Studies</span>
         <span class="tag">Design Optimisation</span>
         <span class="tag">MATLAB</span>
-        <span class="tag">SolidWorks</span>
       </div>
 
       <div class="details" style="display:flex; flex-direction:column; gap:10px;">
