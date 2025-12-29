@@ -22,7 +22,7 @@ permalink: /projects/
 
     <!-- PROJECT: 4B7 Smartphone Chassis Design -->
     <div class="card">
-      <h2>Smartphone Chassis Design — “Formula1 Performance: In Your Pocket”</h2>
+      <h2>FEA Smartphone Chassis Design”</h2>
       <div class="meta">
         Lightweight, stiff phone chassis optimised for strength + thermal performance using simulation-led design.
       </div>
