@@ -52,7 +52,6 @@ permalink: /projects/
       </div>
 
       <div class="details" style="display:flex; flex-direction:column; gap:10px;">
-
         <details>
           <summary>Project File</summary>
 
@@ -72,7 +71,61 @@ permalink: /projects/
             </object>
           </div>
         </details>
+      </div>
+    </div>
 
+    <!-- PROJECT: UAV Drone Frame Optimisation -->
+    <div class="card">
+      <h2>Optimisation of a UAV Drone Frame for Wildfire Detection</h2>
+
+      <div class="meta">
+        <p><strong>Summary:</strong></p>
+
+        <p>
+          The objective of this project was to design and optimise a lightweight UAV drone frame capable of operating in extreme thermal environments encountered during wildfire detection and monitoring, while maintaining high structural stiffness and strength under thrust and manoeuvre loads.
+        </p>
+
+        <p>
+          The design process involved establishing performance requirements, constructing a baseline CAD geometry, and iteratively refining the frame using finite element analysis (FEA). Structural and thermal mesh refinement studies were carried out to ensure numerical accuracy and mesh independence before performing parametric design and topology optimisation studies.
+        </p>
+
+        <p>
+          The final UAV frame design achieved a significant mass reduction while maintaining a large safety margin against yielding and acceptable thermal performance. Under worst-case loading, the frame experienced low displacement and stresses well below material limits, and thermal simulations confirmed suitability for operation in high-temperature wildfire environments.
+        </p>
+      </div>
+
+      <div class="tags">
+        <span class="tag">Computer Aided Design (CAD)</span>
+        <span class="tag">SolidWorks</span>
+        <span class="tag">Finite Element Analysis (FEA)</span>
+        <span class="tag">Structural Simulation</span>
+        <span class="tag">Thermal Analysis</span>
+        <span class="tag">Mesh Refinement Studies</span>
+        <span class="tag">Design Optimisation</span>
+        <span class="tag">Topology Optimisation</span>
+        <span class="tag">Aluminium 7075-T6</span>
+      </div>
+
+      <div class="details" style="display:flex; flex-direction:column; gap:10px;">
+        <details>
+          <summary>Project File</summary>
+
+          <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
+            <object
+              data="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Computer_Aided_Design__B4_Assignment_3.pdf"
+              type="application/pdf"
+              width="100%"
+              height="700"
+              style="display:block; border:0; background:rgba(255,255,255,.02);">
+              <iframe
+                src="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Computer_Aided_Design__B4_Assignment_3.pdf"
+                width="100%"
+                height="700"
+                style="border:0; background:rgba(255,255,255,.02);">
+              </iframe>
+            </object>
+          </div>
+        </details>
       </div>
     </div>
 
@@ -82,62 +135,3 @@ permalink: /projects/
     <a class="pill" href="/finnoconnorportfolio.github.io/">← Back home</a>
   </div>
 </div>
-
-<!-- PROJECT: UAV Drone Frame Optimisation -->
-<div class="card">
-  <h2>Optimisation of a UAV Drone Frame for Wildfire Detection</h2>
-
-  <div class="meta">
-    <p><strong>Summary:</strong></p>
-
-    <p>
-      The objective of this project was to design and optimise a lightweight UAV drone frame capable of operating in extreme thermal environments encountered during wildfire detection and monitoring, while maintaining high structural stiffness and strength under thrust and manoeuvre loads.
-    </p>
-
-    <p>
-      The design process involved establishing performance requirements, constructing a baseline CAD geometry, and iteratively refining the frame using finite element analysis (FEA). Structural and thermal mesh refinement studies were carried out to ensure numerical accuracy and mesh independence before performing parametric design and topology optimisation studies.
-    </p>
-
-    <p>
-      The final UAV frame design achieved a significant mass reduction while maintaining a large safety margin against yielding and acceptable thermal performance. Under worst-case loading, the frame experienced low displacement and stresses well below material limits, and thermal simulations confirmed suitability for operation in high-temperature wildfire environments.
-    </p>
-  </div>
-
-  <div class="tags">
-    <span class="tag">Computer Aided Design (CAD)</span>
-    <span class="tag">SolidWorks</span>
-    <span class="tag">Finite Element Analysis (FEA)</span>
-    <span class="tag">Structural Simulation</span>
-    <span class="tag">Thermal Analysis</span>
-    <span class="tag">Mesh Refinement Studies</span>
-    <span class="tag">Design Optimisation</span>
-    <span class="tag">Topology Optimisation</span>
-    <span class="tag">Aluminium 7075-T6</span>
-  </div>
-
-  <div class="details" style="display:flex; flex-direction:column; gap:10px;">
-
-    <details>
-      <summary>Project File</summary>
-
-      <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
-        <object
-          data="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Computer_Aided_Design__B4_Assignment_3.pdf"
-          type="application/pdf"
-          width="100%"
-          height="700"
-          style="display:block; border:0; background:rgba(255,255,255,.02);">
-          <iframe
-            src="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Computer_Aided_Design__B4_Assignment_3.pdf"
-            width="100%"
-            height="700"
-            style="border:0; background:rgba(255,255,255,.02);">
-          </iframe>
-        </object>
-      </div>
-    </details>
-
-  </div>
-</div>
-
-
