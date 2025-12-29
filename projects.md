@@ -147,6 +147,106 @@ permalink: /projects/
       </div>
     </div>
 
+    <!-- PROJECT: 4E3 Research Methods (Group 17) -->
+<div class="card">
+  <h2>4E3 Research Methods: Acoustic Liner Solutions for Urban Air Mobility (UAM)</h2>
+
+  <div class="meta">
+    <p><strong>Summary:</strong></p>
+
+    <p>
+      A four-part research project on Urban Air Mobility (UAM) noise mitigation, focused on acoustic liner concepts, design methodology, and testing/manufacturing considerations.
+    </p>
+
+    <p>
+      Below are the four individual submissions, each available as an embedded PDF.
+    </p>
+  </div>
+
+  <div class="tags">
+    <span class="tag">Urban Air Mobility (UAM)</span>
+    <span class="tag">Aeroacoustics</span>
+    <span class="tag">Acoustic Liners</span>
+    <span class="tag">Helmholtz Resonators</span>
+    <span class="tag">Micro-Perforated Panels (MPP)</span>
+    <span class="tag">Research Methods</span>
+    <span class="tag">MATLAB</span>
+    <span class="tag">Additive Manufacturing</span>
+  </div>
+
+  <div class="details" style="display:flex; flex-direction:column; gap:10px;">
+
+    <details>
+      <summary>Assignment 1 — Literature Review</summary>
+
+      <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
+        <object
+          data="/finnoconnorportfolio.github.io/assets/pdfs/4E3_Research_Methods__G17_Assignment_1.pdf"
+          type="application/pdf"
+          width="100%"
+          height="700">
+          <iframe
+            src="/finnoconnorportfolio.github.io/assets/pdfs/4E3_Research_Methods__G17_Assignment_1.pdf"
+            width="100%"
+            height="700"></iframe>
+        </object>
+      </div>
+    </details>
+
+    <details>
+      <summary>Assignment 2 — Research Proposal</summary>
+
+      <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
+        <object
+          data="/finnoconnorportfolio.github.io/assets/pdfs/4E3_Research_Methods__G17_Assignment_2.pdf"
+          type="application/pdf"
+          width="100%"
+          height="700">
+          <iframe
+            src="/finnoconnorportfolio.github.io/assets/pdfs/4E3_Research_Methods__G17_Assignment_2.pdf"
+            width="100%"
+            height="700"></iframe>
+        </object>
+      </div>
+    </details>
+
+    <details>
+      <summary>Assignment 3 — Presentation</summary>
+
+      <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
+        <object
+          data="/finnoconnorportfolio.github.io/assets/pdfs/4E3-Research-Methods-Assignment3-Group17.pdf"
+          type="application/pdf"
+          width="100%"
+          height="700">
+          <iframe
+            src="/finnoconnorportfolio.github.io/assets/pdfs/4E3-Research-Methods-Assignment3-Group17.pdf"
+            width="100%"
+            height="700"></iframe>
+        </object>
+      </div>
+    </details>
+
+    <details>
+      <summary>Assignment 4 — Final Paper</summary>
+
+      <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
+        <object
+          data="/finnoconnorportfolio.github.io/assets/pdfs/4E3_Research_Methods__G17_Assignment_4.pdf"
+          type="application/pdf"
+          width="100%"
+          height="700">
+          <iframe
+            src="/finnoconnorportfolio.github.io/assets/pdfs/4E3_Research_Methods__G17_Assignment_4.pdf"
+            width="100%"
+            height="700"></iframe>
+        </object>
+      </div>
+    </details>
+
+  </div>
+</div>
+
   </div>
 
   <div class="footer">
