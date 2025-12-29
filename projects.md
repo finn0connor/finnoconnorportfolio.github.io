@@ -47,13 +47,6 @@ permalink: /projects/
         <details>
           <summary>Project File</summary>
 
-          <p class="meta">
-            If the embedded viewer doesn’t load in your browser, use:
-            <a class="pill"
-               href="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Assignment_2_Group_4_Report.pdf"
-               target="_blank" rel="noopener">Open PDF</a>
-          </p>
-
           <div style="margin-top:12px; border:1px solid var(--border); border-radius:14px; overflow:hidden;">
             <object
               data="/finnoconnorportfolio.github.io/assets/pdfs/4B7_Assignment_2_Group_4_Report.pdf"
