@@ -44,7 +44,8 @@ permalink: /projects/
         <span class="tag">Computer Aided Design (CAD)</span>
         <span class="tag">SolidWorks</span>
         <span class="tag">Finite Element Analysis (FEA)</span>
-        <span class="tag">Thermal Simulation</span>
+        <span class="tag">Thermal Analysis</span>
+        <span class="tag">Structural Analysis</span>
         <span class="tag">Mesh Refinement Studies</span>
         <span class="tag">Design Optimisation</span>
         <span class="tag">MATLAB</span>
@@ -98,12 +99,11 @@ permalink: /projects/
         <span class="tag">Computer Aided Design (CAD)</span>
         <span class="tag">SolidWorks</span>
         <span class="tag">Finite Element Analysis (FEA)</span>
-        <span class="tag">Structural Simulation</span>
         <span class="tag">Thermal Analysis</span>
+        <span class="tag">Structural Analysis</span>
         <span class="tag">Mesh Refinement Studies</span>
         <span class="tag">Design Optimisation</span>
         <span class="tag">Topology Optimisation</span>
-        <span class="tag">Aluminium 7075-T6</span>
       </div>
 
       <div class="details" style="display:flex; flex-direction:column; gap:10px;">
