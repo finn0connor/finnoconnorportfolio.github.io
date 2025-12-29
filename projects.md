@@ -8,7 +8,7 @@ permalink: /projects/
   <div class="nav">
     <div class="brand">
       <strong>Projects</strong>
-      <span>Summary + embedded project files</span>
+      <span>Selected academic and technical work</span>
     </div>
     <div class="links">
       <a class="pill" href="/finnoconnorportfolio.github.io/">Home</a>
@@ -20,48 +20,29 @@ permalink: /projects/
 
   <div class="grid">
 
-    <!-- PROJECT: 4B7 Smartphone Chassis Design -->
+    <!-- PROJECT: Smartphone Chassis Design -->
     <div class="card">
-      <h2>FEA Smartphone Chassis Design”</h2>
+      <h2>FEA Smartphone Chassis Design</h2>
+
       <div class="meta">
-        Lightweight, stiff phone chassis optimised for strength + thermal performance using simulation-led design.
+        <strong>Objective:</strong>
+        Design a lightweight, premium smartphone chassis with high bending and torsional stiffness while maintaining safe operating temperatures under CPU and battery heat loads.
+        <br><br>
+        <strong>Tools & Methods:</strong>
+        CAD-based modelling, finite element structural analysis, thermal simulation, mesh refinement studies, and optimisation-driven design decisions.
       </div>
 
       <div class="tags">
-        <span class="tag">Computer Aided Design</span>
+        <span class="tag">Computer Aided Design (CAD)</span>
         <span class="tag">SolidWorks</span>
         <span class="tag">Finite Element Analysis (FEA)</span>
         <span class="tag">Thermal Simulation</span>
         <span class="tag">Mesh Refinement</span>
-        <span class="tag">Optimisation</span>
+        <span class="tag">Design Optimisation</span>
         <span class="tag">MATLAB</span>
       </div>
 
       <div class="details" style="display:flex; flex-direction:column; gap:10px;">
-
-        <details>
-          <summary>Project Summary</summary>
-
-          <p><strong>Goal:</strong> To design a premium smartphone chassis that was lightweight and aesthetic, with good performace against bending and torsional stresses, as well as good thermal performance to withstand battery and CPU heat transfer.</p>
-
-          <p><strong>What we did:</strong></p>
-          <ul>
-            <li>Researched candidate materials (incl. 6061-T6 aluminium and AZ91D magnesium) and compared stiffness, strength, density, and thermal conductivity.</li>
-            <li>Built a simulation workflow with mesh-independence studies to ensure results were stable (including targeted mesh controls and h-adaptive refinement).</li>
-            <li>Ran structural load cases (simple bending + torsion/bending) to validate stiffness/deflection and stress behaviour.</li>
-            <li>Ran thermal analyses with CPU + battery heat flux and convection; improved cooling using a graphene layer, high-emissivity anodised surface (radiation), and vent perforations.</li>
-          </ul>
-
-          <p><strong>Final outcome (highlights):</strong></p>
-          <ul>
-            <li><strong>Mass:</strong> 143.5 g</li>
-            <li><strong>Stiffness (bending):</strong> ~1,247 N/mm (specific stiffness ~8.7 (N/mm)/g)</li>
-            <li><strong>Strength ratio:</strong> ~4.7% (well below yield → large safety margin)</li>
-            <li><strong>Max temperature:</strong> ~35.2°C after thermal improvements</li>
-            <li><strong>Thermal resistance:</strong> ~4.3 K/W (improved vs baseline)</li>
-          </ul>
-
-        </details>
 
         <details>
           <summary>Project File</summary>
