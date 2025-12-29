@@ -27,9 +27,6 @@ permalink: /projects/
       <div class="meta">
         <strong>Objective:</strong>
         Design a lightweight, premium smartphone chassis with high bending and torsional stiffness while maintaining safe operating temperatures under CPU and battery heat loads.
-        <br><br>
-        <strong>Tools & Methods:</strong>
-        CAD-based modelling, finite element structural analysis, thermal simulation, mesh refinement studies, and optimisation-driven design decisions.
       </div>
 
       <div class="tags">
@@ -37,7 +34,7 @@ permalink: /projects/
         <span class="tag">SolidWorks</span>
         <span class="tag">Finite Element Analysis (FEA)</span>
         <span class="tag">Thermal Simulation</span>
-        <span class="tag">Mesh Refinement</span>
+        <span class="tag">Mesh Refinement Studies</span>
         <span class="tag">Design Optimisation</span>
         <span class="tag">MATLAB</span>
       </div>
